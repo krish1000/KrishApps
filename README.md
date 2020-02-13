@@ -1,4 +1,5 @@
-# KrishApps
+# KrishApps https://krish1000.github.io/KrishApps/
+
 This repository includes small projects I've done in the past, including a magic card game and a Who wants to be a millioniare game made using netbeans.
 
 # About Magic Card
